@@ -26,7 +26,6 @@ Welcome, <?= $_SESSION['user']['username']; ?> |
 
 <h3>Student List</h3>
 
-<!-- <table border="1" cellpadding="5"> -->
 <table cellpadding="5">
 <tr>
     <th>ID</th>
